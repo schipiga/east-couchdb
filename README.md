@@ -18,7 +18,7 @@ or in `.eastrc`:
         "username": "<username>",
         "password": "<password>",
         "host": "<host>",
-        "port": "<port"
+        "port": "<port>"
     }
 }
 ```
@@ -33,4 +33,4 @@ or
 
 `host` is required; `username`, `password`, `port` are optional.
 
-Other options see in east docs.
+Other options see in `east` docs.
