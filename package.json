@@ -1,6 +1,6 @@
 {
   "name": "east-couchdb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "couchdb adapter for east migration tool",
   "main": "lib/adapter.js",
   "directories": {
